@@ -1,0 +1,11 @@
+Package: Oaxaca
+Title: Blinder-Oaxaca Decomposition for linear regression models
+Version: 0.1
+Author: Christopher Lee <clee@example.com>
+Maintainer: Christopher Lee <clee@example.com>
+Description: R equivalent of Ben Jann's Stata routine: decompose.
+    Blinder-Oaxaca decomposition for lm models
+Depends:
+    R (>= 3.1.0)
+License: What license is it under?
+LazyData: true
